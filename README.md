@@ -64,7 +64,7 @@ VALUES
     ('P029', 'Chisom', 'Okorie', '2015-08-22', 'Ear Infection', 'Pain and fever, started after swimming.'),
     ('P030', 'Dayo', 'Ogunjobi', '2016-11-07', 'Broken Finger', 'Injury during sports, requires splint.');
 ```
-
+- Executing the above codes, arranged the data into a table with 8 fields and 30 observations.
 
 ## 7.0. Acknowledgement
 
