@@ -6,7 +6,7 @@ Creating Tables using SQL
 
 ### 2.1. Objective: 
 
-The analysis was focused on arranging data gotten from children's ward into columns in a table.
+The analysis was focused on arranging data gotten from a hospital's children's ward into columns in a table.
 
 ## 3.0. Methodology
 
