@@ -66,7 +66,7 @@ VALUES
 ```
 - Executing the above codes, arranged the data into a table with 8 fields and 30 observations.
 
-## 7.0. Acknowledgement
+## 4.0. Acknowledgement
 
-I acknowledge PSP Analytics for this great platform for learning. I want to sincerely our facilitators (Mr. Okon Prince, Mr. Joseph Edet, Mr. Joseph Elijah and Mr. Zion Oluwasegun) for their tireless efforts to ensure we get the best from the training. Microsoft Power BI was employed in this analysis.
+I acknowledge LITA for this great platform for learning. I want to sincerely our facilitators for their tireless efforts to ensure we get the best from the training. Microsoft SQL studio and server was employed in this analysis.
 
