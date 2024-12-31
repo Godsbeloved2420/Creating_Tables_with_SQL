@@ -68,5 +68,5 @@ VALUES
 
 ## 4.0. Acknowledgement
 
-I acknowledge LITA for this great platform for learning. I want to sincerely our facilitators for their tireless efforts to ensure we get the best from the training. Microsoft SQL studio and server was employed in this analysis.
+I acknowledge PSP ANALYTICS for this great platform for learning. I want to sincerely our facilitators for their tireless efforts to ensure we get the best from the training. Microsoft SQL studio and server was employed in this analysis.
 
